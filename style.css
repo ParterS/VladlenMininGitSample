@@ -1,0 +1,27 @@
+.wrapper {
+    display: grid;
+}
+.item-1 {
+    background-color: rgb(157, 255, 0);
+    text-align: center;
+}
+.item-2 {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+.item-3 {
+    background-color: rgb(15, 59, 255);
+    text-align: center;
+}
+.item-4 {
+    background-color: rgb(255, 0, 170);
+    text-align: center;
+}
+.item-5 {
+    background-color: rgb(255, 136, 0);
+    text-align: center;
+}
+.item-6 {
+    background-color: rgb(0, 225, 255);
+    text-align: center;
+}
